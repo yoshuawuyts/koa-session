@@ -3,12 +3,16 @@
   "description": "koa session store by memory, redis or others",
   "repository": "dead-horse/koa-session",
   "version": "0.3.3",
-  "keywords": ["koa", "middleware", "session"],
+  "keywords": [
+    "koa",
+    "middleware",
+    "session"
+  ],
   "author": "dead_horse <dead_horse@qq.com>",
   "dependencies": {
     "buffer-crc32": "~0.2.1",
     "copy-to": "~1.0.1",
-    "debug": "~0.8.1",
+    "debug": "~2.6.9",
     "uid2": ">=0.0.3"
   },
   "devDependencies": {
